@@ -1,6 +1,4 @@
 # NodeJS Webscraper
-Demo for showing how to scrape data and get backend data to the frontend. This repository is for the video tutorial [here](https://youtu.be/-3lqUHeZs_0)
-
 
 ## To run this project
 
